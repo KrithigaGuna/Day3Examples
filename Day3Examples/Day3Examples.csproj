@@ -32,7 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Day3Examples.Program5</StartupObject>
+    <StartupObject>Day3Examples.Program9</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -50,6 +50,10 @@
     <Compile Include="Program3.cs" />
     <Compile Include="Program4.cs" />
     <Compile Include="Program5.cs" />
+    <Compile Include="Program6.cs" />
+    <Compile Include="Program7.cs" />
+    <Compile Include="Program8.cs" />
+    <Compile Include="Program9.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
